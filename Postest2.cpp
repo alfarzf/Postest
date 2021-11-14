@@ -2,8 +2,7 @@
 using namespace std;
 
 	/*Alfa Rizki Fadlillah
-		2117051003
-			Post Test 2
+		Post Test 2
 				*/
 	
 int main(){
