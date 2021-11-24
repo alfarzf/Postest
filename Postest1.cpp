@@ -3,7 +3,6 @@ using namespace std;
 
 int main(){
 	/*Alfa Rizki Fadlillah
-		Post Test Kelas C
 		2117051003*/
 	
 	string nama1;
