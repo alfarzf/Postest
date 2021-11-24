@@ -3,12 +3,12 @@ using namespace std;
 
 	/*Alfa Rizki Fadlillah
 		Post Test 2
-				*/
+	*/
 	
 int main(){
 	float a, b, c, d;
 	
-	//input
+	//input data
 	cout<<"Harga Sebuah Pena\t: ";
 	cin>>a;
 	cout<<"Harga Sebuah Buku\t: ";
@@ -18,7 +18,7 @@ int main(){
 	cout<<"Harga Sebuah Penggaris\t: ";
 	cin>>d;
 	
-	//output
+	//output data
 	cout
 	<<endl
 	<<"Harga 3 Buah Pena\t: Rp."<<a*3<<endl
