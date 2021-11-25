@@ -3,7 +3,7 @@ using namespace std;
 
 int main(){
 	/*Alfa Rizki Fadlillah
-		2117051003*/
+	*/
 	
 	string nama1;
 	string nama2;
