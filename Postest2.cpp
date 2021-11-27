@@ -2,7 +2,6 @@
 using namespace std;
 
 	/*Alfa Rizki Fadlillah
-		Post Test 2
 	*/
 	
 int main(){
