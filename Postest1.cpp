@@ -18,4 +18,3 @@ int main(){
 	<<nama2<<"\t: Hai salam kenal juga namaku \""<<nama2<<"\""<<endl;
 	return 0;
 }
-
