@@ -26,4 +26,3 @@ int main(){
 	<<"Harga 3 Buah Penggaris\t: Rp."<<d*3<<endl;
 	return 0;
 }
-
