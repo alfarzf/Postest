@@ -3,8 +3,6 @@ using namespace std;
 
 int main(){
 
-	
-	
 	string nama1;
 	string nama2;
 	
