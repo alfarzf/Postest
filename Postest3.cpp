@@ -5,7 +5,6 @@ int main(){
 		
 		/* Alfa Rizki Fadlillah
 			2117051003
-				Post Test 3
 		*/
 	int a;
 		
