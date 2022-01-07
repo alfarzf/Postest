@@ -29,7 +29,7 @@ int main(){
 			break;
 		}
 	}if(status==false){
-		cout<<"rumah tidak ditemukan";
+		cout<<"rumah tidak ditemukan.";
 	}
 	return 0;
 }
