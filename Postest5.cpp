@@ -25,7 +25,7 @@ int main(){
 	for(int i=0;i<a;i++){
 		if(namacek==nama[i]&&alamatcek==alamat[i]){
 			status=true;
-			cout<<"rumah ditemukan";
+			cout<<"rumah ditemukan.";
 			break;
 		}
 	}if(status==false){
